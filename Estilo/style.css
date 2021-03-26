@@ -1,0 +1,19 @@
+.container{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+height: 500px;
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+
+}
+
+*{
+    box-sizing: border-box;
+}
+
+ul,ol,li,a{
+    list-style: none;
+}
